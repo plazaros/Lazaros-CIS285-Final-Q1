@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Users\mlaza\Desktop\CIS285\.metadata\.plugins\org.eclipse.jdt.core
+529132971.index
+126524443.index
+824149676.index
+3040856334.index
+3931227295.index
+2717543658.index
+234737872.index
+350123129.index
+1865797976.index
+2294475611.index
+2183822302.index
+834183762.index
+1205739094.index
+3168082708.index
+3751831618.index
+1826836120.index
+3975388976.index
+3503155461.index

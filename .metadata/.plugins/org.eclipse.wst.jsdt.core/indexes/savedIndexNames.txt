@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\mlaza\Desktop\CIS285\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3751831618.index
